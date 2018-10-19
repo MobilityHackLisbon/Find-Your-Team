@@ -19,3 +19,7 @@ As an individual or a team with an idea, this is how you attract the right folks
 1. Publish an issue with the template `Profile`. Boast your skills to make sure the right team finds your introduction.
 1. Search the issues with a `Pitch` tag and get in touch with the ideators that resonate with you.
 1. Once you have joined your favourite team, close the issue.
+
+## Communication
+
+Of course you are free to use the issue comments. In case you prefer a more private platform, leave your contact information in your `Pitch` or `Profile` so your future team can get in touch.
