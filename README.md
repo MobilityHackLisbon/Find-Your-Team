@@ -12,7 +12,10 @@ As an individual or a team with an idea, this is how you attract the right folks
 
 1. Publish an issue with the template `Pitch` to present your idea and wait for interested people to contact you.
 1. Look for all issues with the tag `Profile` and contact the experts you want on board.
-1. Once you assembled your dream team, close the issue.
+1. Once you have assembled your dream team, close the issue.
 
 ### Profile
 
+1. Publish an issue with the template `Profile`. Boast your skills to make sure the right team finds your introduction.
+1. Search the issues with a `Pitch` tag and get in touch with the ideators that resonate with you.
+1. Once you have joined your favourite team, close the issue.
