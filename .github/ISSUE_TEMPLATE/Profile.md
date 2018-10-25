@@ -4,6 +4,8 @@ about: You have expertise to offer and need a team? Here's where to introduce yo
 
 ---
 
+_If you feel like starting with a short intro or motto, add it here._
+
 # Who I am
 Who are you, what do you spend your time with and what are you passionate about? What are your goals for MobilityHackLisbon.io?
 
