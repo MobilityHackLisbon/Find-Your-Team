@@ -2,7 +2,7 @@
 
 Learn about event time, location, and the exciting challenges that await on [MobilityHackLisbon.io](https://mobilityhacklisbon.io/)! Also make sure to check out the sponsors:
 
-| <img style="width: 200px; max-width: 100%" src=".media/Logo-MB.io-01.svg"> | <img style="width: 200px; max-width: 100%" src=".media/LetteringLogoBlackGreen.svg"> |
+| <img width="200" src=".media/Logo-MB.io-01.svg"> | <img width="200" src=".media/LetteringLogoBlackGreen.svg"> |
 | - | - |
 | <div align="center">[Mercedes-Benz.io](https://mercedes-benz.io)</div> | <div align="center">[DTB Tech & Data Hub](https://techhublisbon.io)</div> |
 
