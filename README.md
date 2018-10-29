@@ -1,6 +1,10 @@
 # MobilityHackLisbon.io 
 
-Learn about event time, location, and the exciting challenges that await on [MobilityHackLisbon.io](https://mobilityhacklisbon.io/)
+Learn about event time, location, and the exciting challenges that await on [MobilityHackLisbon.io](https://mobilityhacklisbon.io/)! Also make sure to check out the sponsors:
+
+| [<img width="250" src=".media/Logo-MB.io-01.svg">](https://mercedes-benz.io/) | [<img width="250" src=".media/LetteringLogoBlackGreen.svg">](https://techhublisbon.io/) |
+| - | - |
+| <div align="center">Mercedes-Benz.io</div> | <div align="center">DTB Tech & Data Hub</div> |
 
 ## Find your team 
 
