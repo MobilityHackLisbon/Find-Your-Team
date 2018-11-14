@@ -28,4 +28,4 @@ You have expertise to offer and need a team? Here's how to introduce yourself!
 
 ## Communication 
 
-Of course you are free to use the issue comments. In case you prefer a more private platform, leave your contact information in your `Pitch` or `Profile` so your future team can get in touch.
+As soon as your attendance is confirmed, you will receive an invitation to the Mobility Hack Lisbon Workspace. Of course you are free to use the issue comments as well. In case you want to offer alternative channels, leave your contact information in your `Pitch` or `Profile` so your future team can get in touch.
